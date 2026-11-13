@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="育鉦電機企業廠 標誌">
+  <defs>
+    <mask id="cut">
+      <rect width="120" height="120" fill="#fff"/>
+      <rect x="0" y="57.6" width="120" height="4.8" fill="#000"/>
+      <circle cx="60" cy="60" r="34" fill="#000"/>
+    </mask>
+  </defs>
+  <path d="M60 8 L112 60 L60 112 L8 60 Z" fill="#1d2b86" stroke="#1d2b86" stroke-width="8" stroke-linejoin="round" mask="url(#cut)"/>
+  <circle cx="60" cy="60" r="30" fill="#ffffff"/>
+  <g fill="none" stroke="#1d2b86" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 42 L50 55 L60 42 L78 42 M50 55 L50 68" stroke-width="6"/>
+    <path d="M78 42 L57 76" stroke-width="7.5"/>
+    <path d="M78 42 L57 76" stroke="#ffffff" stroke-width="7.5" stroke-linecap="butt" stroke-dasharray="1.2 6.5" stroke-dashoffset="-7"/>
+    <path d="M57 76 L72 76" stroke-width="6"/>
+    <circle cx="77" cy="76" r="3.2" stroke-width="2.4"/>
+  </g>
+</svg>
