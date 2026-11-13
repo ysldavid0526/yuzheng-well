@@ -262,3 +262,5 @@ form.ask .done{color:var(--navy);font-size:.92rem}
   .callbar .btn{padding:13px 10px}
   body{padding-bottom:72px}
 }
+@media (max-width:380px){.brand small{display:none}.brand b{font-size:.98rem}.brand svg{width:34px;height:34px}.site-header .wrap{gap:12px}}
+.brand{min-width:0}
